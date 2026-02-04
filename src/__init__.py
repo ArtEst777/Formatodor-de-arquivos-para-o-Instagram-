@@ -1,0 +1,3 @@
+"""
+Instagram Automator - Módulo principal
+"""
